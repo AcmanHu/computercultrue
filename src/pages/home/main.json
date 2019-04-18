@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "计算机文化报名",
+  "usingComponents": {
+    "i-button": "../../../static/dist/button/index",
+    "i-modal": "../../../static/dist/modal/index",
+    "i-input": "../../../static/dist/input/index",
+    "i-message": "../../../static/dist/message/index",
+    "i-row": "../../../static/dist/row/index",
+    "i-col": "../../../static/dist/col/index",
+    "i-load-more": "../../../static/dist/load-more/index"
+  }
+}
